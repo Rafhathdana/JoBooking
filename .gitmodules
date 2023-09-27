@@ -1,0 +1,6 @@
+[submodule "JoBooking-client"]
+	path = JoBooking-client
+	url = https://github.com/Rafhathdana/JoBooking-client
+[submodule "JoBooking-server"]
+	path = JoBooking-server
+	url = https://github.com/Rafhathdana/JoBooking-server
