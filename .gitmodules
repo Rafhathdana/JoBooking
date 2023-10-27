@@ -4,3 +4,6 @@
 [submodule "JoBooking-server"]
 	path = JoBooking-server
 	url = https://github.com/Rafhathdana/JoBooking-server
+[submodule "JoBooking-admin"]
+	path = JoBooking-admin
+	url = https://github.com/Rafhathdana/JoBooking-admin
