@@ -32,14 +32,18 @@ Jobooking is an online booking application that allows users to easily find and 
 - **bcrypt:** Password hashing library for added security.
 
 ## Environment Variables
+```
+PORT=8800
 
-- **PORT:** Port number for the server (default: 8800)
-- **MONGODB_URI:** MongoDB database connection URI
-- **JWT_SECRET:** Secret key for JSON Web Token encryption
+MONGODB_URI=<your-mongodb-connection-uri>
+
+JWT_SECRET=#<your-jwt-secret-key>
+```
 
 ## How to Use
 
-```bash
+```
+
 # Clone the repository
 git clone <repository-url>
 cd JoBooking
@@ -58,8 +62,18 @@ npm install
 
 # Run the Application
 npm start
-Contributing
+
+```
+
+
+
+## Contributing
 We welcome contributions to improve Jobooking! Feel free to fork the repository, create pull requests, and report issues. Please follow the contribution guidelines when submitting changes.
 
-License
-This project is licensed under the MIT License.
+## License
+
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or support, please reach out to our team at [danarafha@gmail.com](mailto:danarafha@gmail.com).
