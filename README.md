@@ -30,6 +30,7 @@ Jobooking is an online booking application that allows users to easily find and 
 - **mongoose:** MongoDB object modeling tool.
 - **jsonwebtoken:** JSON Web Token implementation for authentication.
 - **bcrypt:** Password hashing library for added security.
+- **cloudinary:** Media storage library with additional security features for managing images and videos in the cloud.
 
 ## Environment Variables
 ```
